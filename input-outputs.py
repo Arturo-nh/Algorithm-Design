@@ -96,6 +96,6 @@ def pair_of_points():
     d=math.sqrt((x2-x1)**2+(y2-y1)**2)
     print("La distancia entre los dos puntos es: ",d)
 
-# decompose_number()
-# pair_of_points()
+decompose_number()
+pair_of_points()
 repeticion_de_letra()
